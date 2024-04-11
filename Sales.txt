@@ -1,0 +1,9 @@
+1,Azad,80990667511,azad@gmal.com,Candy,30,5,4850,Wed Mar 13 11:02:05 20241,
+1,Azad,8090667511,azad@gmail.com,Chocolate Bar,20,25,12000,Wed Mar 13 11:18:29 2024
+1,aad,232323462346,1312422,Chocolate Bar,20,25,12000,Wed Mar 13 11:19:42 2024
+1,adasa,cafwr23231,24235235,Cake,37,50,28150,Wed Mar 13 11:20:20 2024
+1,bharti,73465i873287,azasdada@gmail.com,Cake,20,50,29000,Wed Mar 13 11:31:49 2024
+1,Azad Chandra,8,achandra807@gmail.com,Chocolate Bar,20,25,12000,Thu Apr 11 23:43:05 2024
+1,AK,1234567890,ak@gmail.com,Dairy Milk,20,10,3800,Thu Apr 11 23:44:44 2024
+1,Amir,1234567890,amir123@gmail.com,Icepops,10,30,20700,Thu Apr 11 23:50:28 2024
+1,AKal,1234567890,akal123@gmail.com,Cake,2,50,29900,Fri Apr 12 00:04:40 2024
